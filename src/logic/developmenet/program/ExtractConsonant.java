@@ -21,6 +21,5 @@ public class ExtractConsonant {
 				System.out.print(ch+" ");
 			}
 		}
-
 	}
 }
